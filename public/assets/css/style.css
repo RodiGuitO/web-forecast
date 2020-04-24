@@ -1,0 +1,26 @@
+#mainDiv {
+    width: 100%;
+    height: 100%;
+}
+
+#bottonDiv {
+    position: relative!important;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 70px!important;
+}
+
+#topDiv {
+    position: relative!important;
+    width: 100%;
+    height: 100%;
+    margin-top: 50px!important;
+}
+
+.mxh-50 {
+    max-height: 50%!important;
+}
+
+.mih-30 {
+    min-height: 30%!important;
+}
